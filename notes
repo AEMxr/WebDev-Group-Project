@@ -1,0 +1,7 @@
+Things done;
+ - Setup app.js w/ dependencies
+ - Setup database for development phase
+ - Defined user model
+ - Setup routes
+ - Built login + registration + logout methods on index controller
+ - Moved frontend into views directory + switched to ejs
